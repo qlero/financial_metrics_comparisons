@@ -1,0 +1,1 @@
+Desc: Simple comparison of Value-at-Risk (VaR) and Expected Shortfall applied to finance (Goldman Sachs stock - GS).
